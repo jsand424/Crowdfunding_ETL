@@ -2,6 +2,8 @@
 
 ***Team Collaborators***
 + [Khushbu Kothari (Khushi)](https://github.com/dakhushi)
++ [Eric Tran](https://github.com/Tadakatsu213)
++ [Jackson](https://github.com/jsand424/Crowdfunding_ETL/tree/main)
 
 ## Instructions
 The instructions for this mini project are divided into the following subsections:
